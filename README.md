@@ -10,6 +10,4 @@
     <img src="https://komarev.com/ghpvc/?username=Gyimah3&color=red" alt="profile views" />
   </a>
     
-  <a href="https://github.com/Gyimah3">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
-  </a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gyimah3&show_icons=true&theme=theme_name)
