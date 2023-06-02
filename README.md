@@ -14,3 +14,6 @@
   
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gyimah3&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+  
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyimah3&layout=compact&theme=theme)
