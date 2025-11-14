@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gyimah Gideon
-- 🌍 Sunyani, Ghana
-- 👀 I’m interested in Business analytics/ Data Science and database. 
-- 🌱 I’m currently offering Bsc. Electrical and electronic engineering.
-- 💞️ I’m looking to collaborate on Data Science
+- 🌍 Accra, Ghana
+- 👀 I’m interested in Gen AI, Software Dev, Business analytics/ Data Science and databases. 
+- 🌱 I’m currently Working as an AI Engineer.
+- 💞️ I’m looking to collaborate on Gen AI projects
 - 📫 How to reach me gideongyimah19@gmail.com
 
     
